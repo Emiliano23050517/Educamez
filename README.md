@@ -1,2 +1,2 @@
-# Educamez
+# Educamex
 Escuela Educamex
